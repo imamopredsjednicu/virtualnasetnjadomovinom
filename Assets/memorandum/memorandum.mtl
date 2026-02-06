@@ -1,0 +1,142 @@
+newmtl Part1Mtl
+Material Color
+Ka 0.151058 0.0962661 0.0677246
+Kd 0.151058 0.0962661 0.0677246
+Ks 0.00829338 0.0052852 0.00371821 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+map_Ns Part1_spec.png
+
+newmtl Part68Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Part68_diff.png
+map_Kd Part68_diff.png
+map_d Part68_diff.png
+
+newmtl Typewriterfix1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Typewriterfix1_diff.png
+map_Kd Typewriterfix1_diff.png
+map_d Typewriterfix1_diff.png
+
+newmtl Union1Mtl
+Material Color
+Ka 0.101145 0.0697271 0.0511221
+Kd 0.101145 0.0697271 0.0511221
+Ks 0.00555307 0.00382815 0.0028067 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+map_Ns Part1_spec.png
+
+newmtl Part61Mtl
+Material Color
+Ka 0.101145 0.0697271 0.0511221
+Kd 0.101145 0.0697271 0.0511221
+Ks 0.00753631 0.00519535 0.00380909 
+
+d 1
+
+Ns 0
+
+map_Ka Part61_diff.png
+map_Kd Part61_diff.png
+map_d Part61_diff.png
+
+map_Bump Part61_nmap.png
+
+map_Ns Part61_spec.png
+
+newmtl Part64Mtl
+Material Color
+Ka 0.353741 0.363604 0.420508
+Kd 0.353741 0.363604 0.420508
+Ks 0.00971054 0.00998128 0.0115434 
+
+d 1
+
+Ns 0
+
+map_Ka Part64_diff.png
+map_Kd Part64_diff.png
+map_d Part64_diff.png
+
+map_Bump Part64_nmap.png
+
+map_Ns Part64_spec.png
+
+newmtl Part65Mtl
+Material Color
+Ka 0.804559 0.804559 0.84337
+Kd 0.804559 0.804559 0.84337
+Ks 0.318669 0.318669 0.334041 
+
+d 1
+
+Ns 0
+
+newmtl Part66Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Part66_diff.png
+map_Kd Part66_diff.png
+map_d Part66_diff.png
+
+newmtl Part69Mtl
+Material Color
+Ka 0.618686 0.618686 0.618686
+Kd 0.618686 0.618686 0.618686
+Ks 0.0339671 0.0339671 0.0339671 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+map_Ns Part1_spec.png
+
